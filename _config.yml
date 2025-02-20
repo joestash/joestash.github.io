@@ -1,0 +1,14 @@
+#theme: minima
+remote_theme: jekyll/minima
+
+title: Joe Stash
+author: Joe Stash
+description: Projects
+
+header_pages:
+  - about.md
+
+minima:
+  skin: dark
+  social_links:
+    - { platform: github,   user_url: "https://github.com/joestash" }
